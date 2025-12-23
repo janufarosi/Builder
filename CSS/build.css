@@ -903,7 +903,7 @@ footer{
 }
 .footer{
     display: flex;
-    gap: 70px;
+    gap: 60px;
     padding: 20px;
     padding-left: 30px;
 }
@@ -927,3 +927,4 @@ footer{
  font-weight: 400;
 
 }
+
